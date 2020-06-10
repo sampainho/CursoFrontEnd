@@ -1,2 +1,0 @@
-# CursoFrontEnd
-Created with CodeSandbox
